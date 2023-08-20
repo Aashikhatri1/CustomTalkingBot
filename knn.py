@@ -108,3 +108,5 @@ def get_response(user_question):
 
 user_question = "Im fine, How are you?"
 print(get_response(user_question))
+
+# https://software.muzychenko.net/trials/vac470.exe
